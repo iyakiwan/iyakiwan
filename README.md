@@ -15,7 +15,7 @@
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/mufti-alie-satriawan/">LinkedIn</a>
-- dimas@dicoding.com
+- iyakiwan19@gmail.com
 <!--
 **iyakiwan/iyakiwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
