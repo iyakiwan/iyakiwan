@@ -1,8 +1,8 @@
 ### Hi! 👋 I'm Mufti.
 
-- 🔭 I’m currently working on Telkom DxB as Mobile Developer
-- 🌱 I’m currently learning about Hybrid Framework (Xamarin, React Native, or Flutter for mobile apps
-- 💬 Feel free to ask me about Mobile Developement or Android Developement
+- 🔭 I’m currently working on Telkom Indonesia as Android Developer
+- 🌱 I’m currently learning about Native App (Android and iOS) for mobile apps
+- 💬 Feel free to ask me about Android or iOS Developement
 - 📫 How to reach me: iyakiwan19@gmail.com
   
 ### Github Statistic
